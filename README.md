@@ -1,2 +1,0 @@
-# Stylish
-Keeping it Stylish
